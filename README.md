@@ -62,15 +62,6 @@ Features:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mintyextremum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintyextremum&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
